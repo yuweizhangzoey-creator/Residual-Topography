@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "subduction_zones_Kurie",
+"name": "subduction_zones_Kurile",
 "features": [
 { "type": "Feature", "properties": { "Lon": 154.82853276647401, "Lat": 47.174091519895931, "Convergence Velocity": 8.213142837926684, "Convergence Angle": -10.469529894500193, "Trench Velocity": 2.0824957353622415, "Trench Angle": -163.58358757612095, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 303.19686464943442, "Subduction ID": 901.0, "Trench ID": 406.0 }, "geometry": { "type": "Point", "coordinates": [ 154.828532766474012, 47.174091519895931 ] } },
 { "type": "Feature", "properties": { "Lon": 153.74050790218934, "Lat": 46.313621090805022, "Convergence Velocity": 8.3071347372771545, "Convergence Angle": -23.58567222504362, "Trench Velocity": 2.1131673787652101, "Trench Angle": -177.03949410673238, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 315.73811234711962, "Subduction ID": 901.0, "Trench ID": 406.0 }, "geometry": { "type": "Point", "coordinates": [ 153.740507902189336, 46.313621090805022 ] } },
