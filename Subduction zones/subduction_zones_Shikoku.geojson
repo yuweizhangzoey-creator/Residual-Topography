@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "subduction_zones_Shikoku",
+"features": [
+{ "type": "Feature", "properties": { "Lon": 142.77318669055336, "Lat": 29.090208729261196, "Convergence Velocity": 3.9212018625432061, "Convergence Angle": -4.4926220608401595, "Trench Velocity": -4.172348359164765, "Trench Angle": 49.246545385655651, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 255.42704406448578, "Subduction ID": 901.0, "Trench ID": 659.0 }, "geometry": { "type": "Point", "coordinates": [ 142.773186690553359, 29.090208729261196 ] } },
+{ "type": "Feature", "properties": { "Lon": 142.44077278640941, "Lat": 30.199107806038015, "Convergence Velocity": 3.8947657254726229, "Convergence Angle": -4.8134750165637818, "Trench Velocity": -4.1739899931499878, "Trench Angle": 48.929093711202754, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 255.55314235096091, "Subduction ID": 901.0, "Trench ID": 659.0 }, "geometry": { "type": "Point", "coordinates": [ 142.440772786409411, 30.199107806038015 ] } },
+{ "type": "Feature", "properties": { "Lon": 142.16882418472244, "Lat": 31.317525996059587, "Convergence Velocity": 3.8671315557138031, "Convergence Angle": -14.64026056268513, "Trench Velocity": -4.1747702113919978, "Trench Angle": 39.139370246673089, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 265.18926005151781, "Subduction ID": 901.0, "Trench ID": 659.0 }, "geometry": { "type": "Point", "coordinates": [ 142.168824184722439, 31.317525996059587 ] } },
+{ "type": "Feature", "properties": { "Lon": 142.05493630849347, "Lat": 32.459354517933114, "Convergence Velocity": 3.8385861986004306, "Convergence Angle": -14.750002997821433, "Trench Velocity": -4.1747977719971594, "Trench Angle": 39.137239587739529, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 265.12909383919657, "Subduction ID": 901.0, "Trench ID": 659.0 }, "geometry": { "type": "Point", "coordinates": [ 142.054936308493467, 32.459354517933114 ] } }
+]
+}

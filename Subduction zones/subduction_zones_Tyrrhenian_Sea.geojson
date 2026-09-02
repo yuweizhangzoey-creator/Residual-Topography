@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "subduction_zones_Tyrrhenian_Sea",
+"features": [
+{ "type": "Feature", "properties": { "Lon": 19.112558853464893, "Lat": 37.18584071682168, "Convergence Velocity": 7.5323493298382944, "Convergence Angle": 14.145709439278464, "Trench Velocity": 8.3525385705020376, "Trench Angle": 173.37330553830793, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 298.26935599547704, "Subduction ID": 701.0, "Trench ID": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 19.112558853464893, 37.18584071682168 ] } },
+{ "type": "Feature", "properties": { "Lon": 18.165394879681664, "Lat": 36.330151782756602, "Convergence Velocity": 7.6473598533879299, "Convergence Angle": 14.812344704540248, "Trench Velocity": 7.7430153595994691, "Trench Angle": 172.50926810280706, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 312.22354931469147, "Subduction ID": 701.0, "Trench ID": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 18.165394879681664, 36.330151782756602 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "subduction_zones_Scotia",
+"features": [
+{ "type": "Feature", "properties": { "Lon": 335.6147838994977, "Lat": -59.316078544775785, "Convergence Velocity": 6.0415322570747829, "Convergence Angle": -26.179699234422589, "Trench Velocity": 5.2626661945721462, "Trench Angle": 141.09967848353244, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 297.3002123544872, "Subduction ID": 201.0, "Trench ID": 815.0 }, "geometry": { "type": "Point", "coordinates": [ -24.385216100502298, -59.316078544775785 ] } },
+{ "type": "Feature", "properties": { "Lon": 336.17382710534656, "Lat": -58.224281204039158, "Convergence Velocity": 6.2690128075869573, "Convergence Angle": -5.7906894402951412, "Trench Velocity": 5.4669528507167984, "Trench Angle": 162.04356604295373, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 276.95037745455073, "Subduction ID": 201.0, "Trench ID": 815.0 }, "geometry": { "type": "Point", "coordinates": [ -23.826172894653418, -58.224281204039158 ] } },
+{ "type": "Feature", "properties": { "Lon": 334.64027698516355, "Lat": -56.126831517718685, "Convergence Velocity": 6.6942342337472294, "Convergence Angle": 36.125259242081931, "Trench Velocity": 5.9073256257601843, "Trench Angle": -155.32186555745423, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 234.75545740930673, "Subduction ID": 201.0, "Trench ID": 815.0 }, "geometry": { "type": "Point", "coordinates": [ -25.359723014836423, -56.126831517718685 ] } }
+]
+}
