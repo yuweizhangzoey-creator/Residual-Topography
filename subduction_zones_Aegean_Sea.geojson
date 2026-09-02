@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "subduction_zones_Aegean_Sea",
+"features": [
+{ "type": "Feature", "properties": { "Lon": 23.819322204274414, "Lat": 32.542089480274477, "Convergence Velocity": 2.0746020020529734, "Convergence Angle": 6.0756294294247573, "Trench Velocity": -2.0021637347403778, "Trench Angle": 87.288812834639941, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 4.6900894615905031, "Subduction ID": 701.0, "Trench ID": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 23.819322204274414, 32.542089480274477 ] } },
+{ "type": "Feature", "properties": { "Lon": 25.171952334600554, "Lat": 32.43553065388874, "Convergence Velocity": 1.6892420556525296, "Convergence Angle": -10.140749921442934, "Trench Velocity": -2.5488122702603198, "Trench Angle": 77.763147956132428, "Arc Length": 1.1459155902616465, "Trench Normal Angle": 6.0988965378463371, "Subduction ID": 701.0, "Trench ID": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 25.171952334600554, 32.43553065388874 ] } }
+]
+}
