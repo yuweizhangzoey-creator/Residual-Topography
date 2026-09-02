@@ -1,21 +1,48 @@
-# Residual-Topography vs Slab Dip
+# Residual Topography of Back-Arc Basins
 
-This repository contains five residual-topography NetCDF files, basin polygons, and workflows for extracting residual topography within back-arc basins and calculating slab dip. It also includes a subduction zones folder containing the subduction zones associated with or located near the back-arc basins analysed in this study.
+This repository contains the data and workflows used to extract residual topography within back-arc basins and calculate slab dip.
 
-The residual-topography files are provided in NetCDF (.nc) format. These files contain residual topography calculated using different crustal-thickness models and age–depth relationships.
-For the crustal-thickness correction, three models are used:
+## Repository Contents
 
-CRUST1.0 (Laske et al., 2012)
+The repository includes:
 
-ECM1 (Mooney et al., 2023)
+* **Five residual-topography NetCDF files** (`.nc`)
+* **Basin polygons** defining the back-arc basins analysed in this study
+* **Workflows** for:
 
-LithoRef18 (Afonso et al., 2019)
+  * extracting residual topography within back-arc basins
+  * calculating slab dip
+* **Subduction zones** folder containing subduction zones associated with or located near the back-arc basins analysed in this study
 
-For the age–depth relationship, three models are applied:
-Richards et al. (2018)
+## Residual Topography Data
 
-GDH1 (Stein & Stein, 1992)
+The residual-topography files are provided in **NetCDF (`.nc`) format**. These files contain residual topography calculated using different crustal-thickness models and age–depth relationships.
 
-Crosby and McKenzie (2009)
+### Crustal-Thickness Models
 
-The repository also includes the basin polygons and associated workflows used to extract residual-topography values within each back-arc basin and to calculate representative slab dip from the subduction-zone geometries.
+Three crustal-thickness models are used for the crustal-thickness correction:
+
+* **CRUST1.0** — Laske et al. (2012)
+* **ECM1** — Mooney et al. (2023)
+* **LithoRef18** — Afonso et al. (2019)
+
+### Age–Depth Relationships
+
+Three age–depth relationships are applied:
+
+* **Richards et al. (2018)**
+* **GDH1** — Stein & Stein (1992)
+* **Crosby & McKenzie (2009)**
+
+## Workflows
+
+The repository provides workflows for:
+
+1. Extracting residual-topography values within each back-arc basin.
+2. Calculating representative residual topography for each basin.
+3. Extracting trench-normal slab profiles.
+4. Calculating representative slab dip for each subduction zone or trench segment.
+
+## Subduction Zones
+
+The `subduction_zones/` folder contains the subduction-zone geometries associated with or located near the back-arc basins analysed in this study.
